@@ -1,0 +1,69 @@
+  //if (string.IsNullOrEmpty(Convert.ToString(DtDOJ.SelectedDate)))
+            //{
+            //    DOJ = "01/01/1900 00:00:00";
+            //}
+            //else
+            //{
+            //    DOJ = DtDOJ.SelectedDate.ToString();
+            //    DateTime idt = DateTime.Parse(DOJ);
+            //    DOJ = idt.Month + "/" + idt.Day + "/" + idt.Year + " 00:00:00";
+            //}
+ //if (string.IsNullOrEmpty(Convert.ToString(DtOGSP.SelectedDate)))
+            //{
+            //    OGSP = "01/01/1900 00:00:00";
+
+            //}
+            //else
+            //{
+            //    OGSP = DtOGSP.SelectedDate.ToString();
+            //    DateTime idt1 = DateTime.Parse(OGSP);
+            //    OGSP = idt1.Month + "/" + idt1.Day + "/" + idt1.Year + " 00:00:00";
+            //}
+
+            //if (string.IsNullOrEmpty(Convert.ToString(dtMedical.SelectedDate)))
+            //{
+            //    Medical = "01/01/1900 00:00:00";
+
+            //}
+            //else
+            //{
+            //    Medical = dtMedical.SelectedDate.ToString();
+            //    DateTime idt2 = DateTime.Parse(Medical);
+            //    Medical = idt2.Month + "/" + idt2.Day + "/" + idt2.Year + " 00:00:00";
+            //}
+
+            //if (string.IsNullOrEmpty(Convert.ToString(dtH2S.SelectedDate)))
+            //{
+            //    H2S = "01/01/1900 00:00:00";
+
+            //}
+            //else
+            //{
+            //    H2S = dtH2S.SelectedDate.ToString();
+            //    DateTime idt3 = DateTime.Parse(H2S);
+            //    H2S = idt3.Month + "/" + idt3.Day + "/" + idt3.Year + " 00:00:00";
+            //}
+
+
+            //if (string.IsNullOrEmpty(Convert.ToString(dtBOSIET.SelectedDate)))
+            //{
+            //    BOSIET = "01/01/1900 00:00:00";
+
+            //}
+            //else
+            //{
+            //    BOSIET = dtBOSIET.SelectedDate.ToString();
+            //    DateTime idt1 = DateTime.Parse(BOSIET);
+            //    BOSIET = idt1.Month + "/" + idt1.Day + "/" + idt1.Year + " 00:00:00";
+            //}
+            //if (string.IsNullOrEmpty(Convert.ToString(dtCompentancy.SelectedDate)))
+            //{
+            //    Compentancy = "01/01/1900 00:00:00";
+
+            //}
+            //else
+            //{
+            //    Compentancy = dtCompentancy.SelectedDate.ToString();
+            //    DateTime idt2 = DateTime.Parse(Compentancy);
+            //    Compentancy = idt2.Month + "/" + idt2.Day + "/" + idt2.Year + " 00:00:00";
+            //}
